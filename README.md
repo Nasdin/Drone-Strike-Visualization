@@ -5,7 +5,7 @@ api.dronestre.am
 
 **Your mission:** 
 - Explore the drone strike data and describe it
-- Do some accomanying research to augment your analysis
+- Do some accompanying research to augment your analysis
 - Report back any good summary statistics
 
 **Also, we would like to know:**
