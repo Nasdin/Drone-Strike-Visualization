@@ -10,10 +10,6 @@ api.dronestre.am
 - Do some accompanying research to augment your analysis
 - Report back any good summary statistics
 
-**Also, we would like to know:**
- - Is this a good source of data?
- - Why / why not?
-
 
 One of the needs for data science in organizations is to bring measure to vague problems. What can be measured in this dataset with certainty? Drive your presentation from what can be measured, reported. 
 
